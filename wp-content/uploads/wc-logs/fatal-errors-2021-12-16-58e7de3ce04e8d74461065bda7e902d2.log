@@ -1,0 +1,16 @@
+2021-12-16T11:34:16+00:00 CRITICAL require(): Failed opening required 'http://localhost/lanesta/wp-content/themes/lanesta/inc/redux.php' (include_path='.;C:\php\pear') у C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\functions.php доступно 182
+
+2021-12-16T11:34:16+00:00 CRITICAL require(): Failed opening required 'http://localhost/lanesta/wp-content/themes/lanesta/inc/redux.php' (include_path='.;C:\php\pear') у C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\functions.php доступно 182
+
+2021-12-16T11:34:18+00:00 CRITICAL require(): Failed opening required 'http://localhost/lanesta/wp-content/themes/lanesta/inc/redux.php' (include_path='.;C:\php\pear') у C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\functions.php доступно 182
+
+2021-12-16T14:20:17+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_product_categories() in C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\home.php:14
+Stack trace:
+#0 C:\MAMP\htdocs\lanesta\wp-includes\template-loader.php(106): include()
+#1 C:\MAMP\htdocs\lanesta\wp-blog-header.php(19): require_once('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\lanesta\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#3 {main}
+  thrown у C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\home.php доступно 14
+
+2021-12-16T14:26:47+00:00 CRITICAL syntax error, unexpected end of file у C:\MAMP\htdocs\lanesta\wp-content\themes\lanesta\functions.php доступно 207
+
